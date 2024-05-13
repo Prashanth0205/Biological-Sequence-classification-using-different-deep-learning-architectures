@@ -10,6 +10,5 @@ A comparative study on how effective various deep learning architectures for thi
 Link to Paper: https://link.springer.com/chapter/10.1007/978-981-19-2821-5_44
 
 If you find this work useful, please cite: 
-### Sivasubramanian, Arrun, et al. "Biological Sequence Classification Using Deep Learning Architectures." International Conference on Innovative Computing and Communications. Springer, Singapore, 2023.
-
+### Sivasubramanian, Arrun, V. R. Prashanth, S. Sachin Kumar, and K. P. Soman. "Biological Sequence Classification Using Deep Learning Architectures." In International Conference on Innovative Computing and Communications: Proceedings of ICICC 2022, Volume 1, pp. 529-537. Singapore: Springer Nature Singapore, 2022.
 
